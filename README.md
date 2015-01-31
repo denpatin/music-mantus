@@ -1,3 +1,8 @@
-A `Learning German with Mantus` experimental project.
+## English
+A `Learning languages with music` experimental project.
 
-Ein Experimentalproject `Wir studieren Deutsch mit Mantus`.
+## Deutsch
+Ein experimentelles Projekt `Wir lernen Sprachen mit Musik`.
+
+## Magyar
+Egy `A zenével való nyelvtanulás` című kísérleti projekt.
